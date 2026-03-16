@@ -79,9 +79,3 @@ Smart-Parking-System
 - Euclidean Distance Algorithm
 
 ---
-
-## Author
-
-**Zara Aziz**
-
-Computer Science Student interested in **systems, algorithms, and software development**.
