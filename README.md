@@ -53,7 +53,7 @@ Smart-Parking-System
 ├── coordinates.txt
 ├── README.md
 └── screenshots
-     └── menu.png
+     └── Menu.PNG
 ```
 
 ---
