@@ -60,7 +60,7 @@ Smart-Parking-System
 
 ## Program Menu
 
-![Menu](screenshots/Menu.png)
+![Menu](screenshots/Menu.PNG)
 
 ---
 
